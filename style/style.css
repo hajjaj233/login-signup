@@ -1,0 +1,21 @@
+body{
+    background-color: #24353F;
+}
+.myshadow{
+box-shadow: 10px 10px 10px 10px #151F25;
+}
+.mywidth{
+    width: 90%;
+}
+.title h2{
+    color: #17A2B8;
+}
+.mybtn{
+    color: #17A2B8;
+    border: 2px solid #17A2B8;
+}
+.mybtn:hover{
+    background-color: #17A2B8;
+    color: white;
+    
+}
